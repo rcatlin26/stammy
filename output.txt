@@ -1,0 +1,39 @@
+Query: hi
+Answer: Hello! I'm Stammy, your UConn Stamford Admissions Assistant. How can I help you today?
+
+Query: how can i apply
+Answer: To apply to UConn, you can follow these steps:
+
+1. **Choose Your Application Platform:** You can apply through one of the following:
+   - The **UConn Application** (preferred for transfer applicants)
+   - The **Common Application**
+   - The **Coalition Application**
+
+2. **Application Fee:** There is an $80 non-refundable application fee, which can be paid directly through the chosen application platform. Alternatively, you can send a check or money order to the Office of Undergraduate Admissions. Please ensure your name (as it appears on your application) and date of birth are included with the payment.
+
+3. **Supplemental Application and/or Additional Admission Requirements:** Some programs at UConn have additional requirements or a supplemental application. These programs may also have different deadlines than the general application, so it's important to check if your program of interest falls into this category.
+
+If you're applying for a restricted program, please be aware of any additional requirements or deadlines. If you need further assistance or have more specific questions about the application process, feel free to contact us at beahuskystamford@uconn.edu or call (203) 251-8541.
+
+Query: how do transfer credits work
+Answer: To understand how transfer credits work at UConn, you can follow these guidelines:
+
+1. **For Courses Taken in Connecticut:** If you attended another college or university in Connecticut, you can check how each course you've taken would transfer to UConn by visiting [UConn's Course Equivalencies page](https://admissions.uconn.edu/apply/transfer/transfer-credit/equivalencies).
+
+2. **Viewing Transferred Credits:** The credits that have been transferred to UConn will be listed in your Student Admin account. To view this, go to [studentadmin.uconn.edu](https://studentadmin.uconn.edu), log in with your NETID and password, then select Self-Service (under Menu).
+
+3. **AP Scores/ECE Credits:** Remember to send your AP scores directly from the College Board to UConn. You can find the list of required scores on [UConn's website](https://admissions.uconn.edu/apply/transfer/transfer-credit/AP-IB-A-level-credit).
+
+4. **Transferring to Storrs Campus:** If you're currently at a regional campus and wish to transfer to the Storrs campus, it is possible for any student in good academic standing after accumulating 54 credits. To do this, fill out a campus change form and consult with your advisor.
+
+These steps should guide you through understanding how your credits may transfer to UConn and what actions you need to take next.
+
+Query: can i transfer to storrs later?
+Answer: Yes, you can transfer to the Storrs campus later! Any student in good academic standing can transfer to Storrs after completing 54 credits. To initiate this process, you'll need to fill out a campus change form and speak with your advisor. This opportunity allows you to continue your UConn education on our flagship campus after starting at Stamford.
+
+If you're considering transferring and want more information on how to apply as a transfer student, you can start by visiting [UConn's Transfer Admissions page](https://admissions.uconn.edu/apply/transfer/).
+
+While letters of recommendation are optional for UConn, they are strongly encouraged. Adding one to three letters is another way for the admissions team to get to know you better. These letters must be sent officially from the writers themselves, either via email to beahusky@uconn.edu or mailed in a sealed envelope to: University of Connecticut, Office of Undergraduate Admissions, 2131 Hillside Road, Unit 3088, Storrs, Connecticut 06269.
+
+If you have any more questions or need further assistance with the transfer process, please don't hesitate to ask!
+
