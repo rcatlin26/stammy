@@ -36,7 +36,7 @@ def get_final_thought(query, api_key, url):
     return final_thought
 
 # Your API key and endpoint
-api_key = 'app-8hQdRAXgiCA9HbeA3vH1HBrN'
+api_key = 'API Key'
 url = 'https://app.genai4all.org/v1/chat-messages'
 
 input_file_path = 'input.txt'  # Path to the file containing the queries
